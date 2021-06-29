@@ -1,5 +1,5 @@
 # State-Farm-Distracted-Driver-Detection
-kaggle competition for "State Farm Distracted Driver Detection"
+[kaggle competition for "State Farm Distracted Driver Detection"](https://www.kaggle.com/owenmyung/ml-project)
 
 # Final Model  
 - Base_Optimizer : Adam  
